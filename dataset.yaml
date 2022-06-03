@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/%_YOUR_TRAIN_FOLDER_%/train/  
+val: /content/drive/MyDrive/%_YOUR_VALIDATION_FOLDER_%/valid/ 
+
+# Classes
+nc: 4 
+names: [ 'pistol', 'machine_gun', 'knife', 'grenade']
